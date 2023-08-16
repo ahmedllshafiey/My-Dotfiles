@@ -4,6 +4,3 @@
 # Oh-My-Posh
 $theme_config = "$env:POSH_THEMES_PATH/zash.omp.json"
 oh-my-posh init pwsh --config $theme_config | Invoke-Expression
-
-# PowerShell Colors
-Import-Module PSColor
