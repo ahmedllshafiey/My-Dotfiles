@@ -35,3 +35,4 @@
 - https://github.com/vlrmprjct/hyper-systray - hyper-systray
 - https://github.com/lucleray/hyper-opacity - hyper-opacity
 - https://github.com/dfrankland/hyper-tab-icons - hyper-tab-icons
+- https://github.com/Hyperline/hyperline - hyperline
