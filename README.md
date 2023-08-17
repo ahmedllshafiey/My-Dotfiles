@@ -27,7 +27,7 @@
 ## PowerShell Config
 
 - https://github.com/JanDeDobbeleer/oh-my-posh - Prompt theme engine
-- https://github.com/Davlind/PSColor - Provides simple color highlighting for some PowerShell output
+- https://github.com/JustABearOz/PoshColor - Provides simple color highlighting for some PowerShell output
 
 ## Hyper.is Terminal Config
 
